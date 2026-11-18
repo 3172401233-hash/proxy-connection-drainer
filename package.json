@@ -1,0 +1,10 @@
+{
+  "name": "proxy-connection-drainer",
+  "version": "1.0.0",
+  "description": "Graceful shutdown / connection draining for Node.js HTTP/1.1 keep-alive and HTTP/2 servers",
+  "main": "src/drainer.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
